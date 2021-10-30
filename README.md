@@ -1,2 +1,8 @@
-# These-are-the-Days-of-PayPal
-Intro to Fintech Homework
+# These are the Days of PayPal
+
+## Overview and Orgin
+PayPal origins began in December 1998 as a Palm Pilot dedicated application called Fieldlink.  The initial idea behind Fieldlink was sending IOUs from user to user via Palm Pilot’s built-in infrared ports.  The product also allowed users to make payments on purchased goods or exchange money between accounts in a secure online transaction.  The founders of this technology Max Levchin, Peter Thiel, Ken Howrey and Luke Nosek formed the company known as Confinity to market this new application. Later it was determined Palm Pilot’s technology was not needed to transfer money as Fieldlink’s software could be used via email and the internet.  This new discovery/product is what we call PayPal today.
+
+In March 2000, PayPal went through growing pains when it merged with X.com (founded by Elon Musk).  The company was in the red for a period when led by Elon Musk; however, due to a successful coup, Elon Musk was removed as CEO of PayPal and Peter Thiel was named interim CEO.
+
+In 2002, PayPal decided it was time to seek a buyer and approached Google and Yahoo with a minimum price of $600M; however, neither company was interested in purchasing the company.  After the denial of purchase from Google and Yahoo, PayPal decided to prepare for an IPO.  PayPal’s declaration to become a public company caused eBay (one of PayPal’s main customers) to offer $400M to purchase the company – PayPal rejected this deal as they felt their market cap was closer to $1.2B.  eBay eventually paid $1.5B for PayPal in 2002.  In 2015, PayPal was divested into an independent company. 
