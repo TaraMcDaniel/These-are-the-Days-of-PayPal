@@ -1,5 +1,8 @@
 # These are the Days of PayPal
 
+
+![E72B6B36-86A7-4E4C-8A31-B254D2A0FE4A_4_5005_c](https://user-images.githubusercontent.com/87556725/139561257-83802c92-bb0a-409b-ba5d-0953c9a53635.jpeg)
+
 ## Overview and Orgin
 PayPal origins began in December 1998 as a Palm Pilot dedicated application called Fieldlink.  The initial idea behind Fieldlink was sending IOUs from user to user via Palm Pilot’s built-in infrared ports.  The product also allowed users to make payments on purchased goods or exchange money between accounts in a secure online transaction.  The founders of this technology Max Levchin, Peter Thiel, Ken Howrey and Luke Nosek formed the company known as Confinity to market this new application. Later it was determined Palm Pilot’s technology was not needed to transfer money as Fieldlink’s software could be used via email and the internet.  This new discovery/product is what we call PayPal today.
 
